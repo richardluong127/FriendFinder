@@ -4,4 +4,4 @@ Users submits their name, a link to their picture, and answers 10 survey questio
 
 Users will be able find a friend with similar interests/outlooks and other users will be able to match up with them as well.
 
-Worked on by Richard L and received help from Alex W.
+Coded by Richard L and received help from Alex W.
