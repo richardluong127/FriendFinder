@@ -1,21 +1,7 @@
 FriendFinder
 
-1.  You believe it's important to align what you say with what you do.
+Users submits their name, a link to their picture, and answers 10 survey questions as it most pertains to them.  Their response will be recorded as a JSON on the site and they'll be shown who best matches their responses!
 
-2.  When you hear a song you like, you then get the artist's album and listen to the whole album.
+Users will be able find a friend with similar interests/outlooks and other users will be able to match up with them as well.
 
-3.  You prefer buffets over a nice steakhouse.
-
-4.  Love was made up by marketing agencies to sell nylons (paraphrasing Don Draper).
-
-5.  You agree with this famous quote: "There are three kinds of lies: lies, damned lies, and statistics."
-
-6.  Horror movies have the most interesting plot lines.
-
-7.  You love to karaoke and singing in front of other people is no problem for you.
-
-8.  You don't mind waiting in line.
-
-9.  If you were stuck in a maze similar to one in Maze Runner, you'd be able to find your way out alright.
-
-10.  Your grandchildren want you to move to Mars with them since interplanetary colonization is now a thing.  You will go with them and say goodbye to Earth.
+Worked on by Richard L and received help from Alex W.
