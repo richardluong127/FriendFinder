@@ -12,3 +12,5 @@ Front Page and Survey: ![Alt Text](https://github.com/richardluong127/FriendFind
 After Submitting: ![Alt Text](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample2.png)
 ![Friend Finder App](FriendFinderExample3.png)
 api/friends: ![Alt Text](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample3.png)
+
+Thanks!
