@@ -6,7 +6,7 @@ Users will be able find a friend with similar interests/outlooks and other users
 
 Coded by Richard L and received help from Alex W.
 
-![Friend Finder App](FriendFinder/friendfinderexample1.png)
-Format: ![Alt Text](FriendFinder/friendfinderexample1.png)
-![Friend Finder App](FriendFinder/friendfinderexample2.png)
-Format: ![Alt Text](FriendFinder/friendfinderexample2.png)
+![Friend Finder App](FriendFinder/app/friendfinderexample1.png)
+Format: ![Alt Text](FriendFinder/app/friendfinderexample1.png)
+![Friend Finder App](FriendFinder/app/friendfinderexample2.png)
+Format: ![Alt Text](FriendFinder/app/friendfinderexample2.png)
