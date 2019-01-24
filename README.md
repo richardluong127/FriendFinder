@@ -6,9 +6,9 @@ Users will be able find a friend with similar interests/outlooks and other users
 
 Coded by Richard L and received help from Alex W.
 
-![Friend Finder App](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample1.png)
+![Friend Finder App]()
 Front Page and Survey: ![Alt Text](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample1.png)
-![Friend Finder App](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample2.png)
+![Friend Finder App]()
 After Submitting: ![Alt Text](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample2.png)
-![Friend Finder App](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample3.png)
+![Friend Finder App]()
 api/friends: ![Alt Text](https://github.com/richardluong127/FriendFinder/blob/master/FriendFinderExample3.png)
